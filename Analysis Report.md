@@ -62,7 +62,7 @@ The educational requirements specified in job postings vary significantly:
 3. **Master's Degree**: Frequently requested for more specialized roles like Data Scientists and Machine Learning Engineers, reflecting the advanced skills and knowledge required.
 4. **PhD**: While less common, a PhD is sometimes required for highly specialized roles, particularly in research-intensive positions such as Data Scientists working on complex algorithms or Machine Learning models.
 
-![Heatmap_of_Desired_Education_Levels_by_Data_Role_Percentage](https://github.com/user-attachments/assets/16b3be05-39bb-42cb-85ef-334e15bc53f2)
+![Heatmap_of_Desired_Education_Levels_by_Data_Role_Percentage](https://github.com/user-attachments/assets/ad48c481-bb26-4145-9705-f090128d71b4)
 
 ### Onsite vs. Remote Work
 
